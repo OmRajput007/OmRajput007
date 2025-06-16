@@ -1,4 +1,4 @@
-# 👋 Hey, I'm [Your Name]
+# 👋 Hey, I'm **Om Rajput**
 
 I build GPT-powered SaaS tools, AI agents, and real-time data analysts.
 
