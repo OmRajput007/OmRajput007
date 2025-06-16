@@ -1,16 +1,15 @@
-## Hi there 👋
+# 👋 Hey, I'm **Om Rajput**
+I build GPT-powered SaaS tools, AI agents, and real-time data analysts.
 
-<!--
-**OmRajput007/OmRajput007** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🚀 Skills
+- LangChain | OpenAI | RAG | Streamlit | FAISS | Gradio | Python
 
-Here are some ideas to get you started:
+### 💼 Projects
+- 🧠 AI Girlfriend (LangChain + RAG + Personality)
+- 📊 AI Analyst for CSVs
+- 📚 Custom Chatbot for PDFs
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 💡 What I offer
+I build AI tools that actually work — deployable SaaS, GPT agents, business automations.
+
+Want something built? DM me on Twitter or LinkedIn. I'm open to freelance work.
